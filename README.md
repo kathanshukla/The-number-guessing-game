@@ -1,0 +1,2 @@
+# The-number-guessing-game
+In this game it will ask you to guess a number between 1 to 100 then you will guess a number if the number is lower than the original  number it will show that enter a higher number and similarly if the number is higher than the original number it will show that enter a lower number and when you finally guess the right number it will show you how many try you take to guess the number and it will show you your score.
